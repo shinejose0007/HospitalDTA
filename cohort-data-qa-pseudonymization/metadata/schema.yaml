@@ -1,7 +1,0 @@
-
-columns:
-  sex: gender
-  date_of_birth: dob
-  visit_date: visit
-  sys: systolic
-  dia: diastolic
