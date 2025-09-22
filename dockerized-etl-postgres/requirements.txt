@@ -1,6 +1,0 @@
-
-pandas==2.0.3
-sqlalchemy==2.0.18
-psycopg2-binary==2.9.6
-jupyter==1.0.0
-pytest==7.4.0

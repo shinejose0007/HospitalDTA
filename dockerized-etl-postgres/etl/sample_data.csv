@@ -1,5 +1,0 @@
-
-patient_id,visit_date,age,gender,systolic,diastolic
-P001,2024-01-15,54,M,130,80
-P002,2024-02-20,67,F,145,85
-P003,2024-03-10,72,M,160,90
